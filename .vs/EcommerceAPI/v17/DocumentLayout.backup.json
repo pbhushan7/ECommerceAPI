@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\Bhushan .Net\\EcommerceAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\migrations\\20250327143011_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\migrations\\20250327143011_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +66,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250327143011_initial.cs",
-              "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Migrations\\20250327143011_initial.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Migrations\\20250327143011_initial.cs",
-              "ToolTip": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Migrations\\20250327143011_initial.cs",
-              "RelativeToolTip": "EcommerceAPI\\Migrations\\20250327143011_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "EcommerceAPI\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T14:30:12.168Z",
+              "WhenOpened": "2025-03-29T14:06:20.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "EcommerceAPI\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:06:06.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Models\\Order.cs",
+              "ToolTip": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Models\\Order.cs",
+              "RelativeToolTip": "EcommerceAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:04:48.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\IProductRepository.cs",
@@ -75,25 +113,24 @@
               "RelativeToolTip": "EcommerceAPI\\Repositories\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T13:54:54.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T13:54:54.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\ProductRepository.cs",
               "ToolTip": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "EcommerceAPI\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T13:53:29.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ProductController.cs",
@@ -101,25 +138,24 @@
               "RelativeToolTip": "EcommerceAPI\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T13:38:34.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T13:38:34.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "EcommerceDbContext.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Data\\EcommerceDbContext.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Data\\EcommerceDbContext.cs",
               "ToolTip": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Data\\EcommerceDbContext.cs",
               "RelativeToolTip": "EcommerceAPI\\Data\\EcommerceDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T11:25:42.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "EcommerceAPI.csproj",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\EcommerceAPI.csproj",
               "RelativeDocumentMoniker": "EcommerceAPI\\EcommerceAPI.csproj",
@@ -127,12 +163,36 @@
               "RelativeToolTip": "EcommerceAPI\\EcommerceAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-27T11:25:06.141Z",
+              "WhenOpened": "2025-03-27T11:25:06.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
+              "ToolTip": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Program.cs",
+              "RelativeToolTip": "EcommerceAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:05:26.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "20250327143011_initial.cs",
+              "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Migrations\\20250327143011_initial.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Migrations\\20250327143011_initial.cs",
+              "ToolTip": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Migrations\\20250327143011_initial.cs",
+              "RelativeToolTip": "EcommerceAPI\\Migrations\\20250327143011_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:30:12.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\appsettings.json",
               "RelativeDocumentMoniker": "EcommerceAPI\\appsettings.json",
@@ -140,12 +200,11 @@
               "RelativeToolTip": "EcommerceAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T11:21:23.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T11:21:23.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Models\\Product.cs",
@@ -154,19 +213,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T09:15:59.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Program.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
-              "ToolTip": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Program.cs",
-              "RelativeToolTip": "EcommerceAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:05:26.365Z",
               "EditorCaption": ""
             }
           ]
