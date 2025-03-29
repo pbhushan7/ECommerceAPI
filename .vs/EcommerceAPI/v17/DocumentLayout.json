@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Bhushan .Net\\EcommerceAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|d:\\bhushan .net\\ecommerceapi\\ecommerceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97CFC488-F5D0-4B26-B224-FC1A29E0E760}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "EcommerceAPI\\Models\\Order.cs",
-              "ToolTip": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Models\\Order.cs",
-              "RelativeToolTip": "EcommerceAPI\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T13:47:15.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "20250327143011_initial.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Migrations\\20250327143011_initial.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Migrations\\20250327143011_initial.cs",
@@ -83,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\IProductRepository.cs",
@@ -95,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Repositories\\ProductRepository.cs",
@@ -107,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ProductController.cs",
@@ -119,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "EcommerceDbContext.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Data\\EcommerceDbContext.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Data\\EcommerceDbContext.cs",
@@ -131,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "EcommerceAPI.csproj",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\EcommerceAPI.csproj",
               "RelativeDocumentMoniker": "EcommerceAPI\\EcommerceAPI.csproj",
@@ -143,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\appsettings.json",
               "RelativeDocumentMoniker": "EcommerceAPI\\appsettings.json",
@@ -155,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Models\\Product.cs",
@@ -168,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Bhushan .Net\\EcommerceAPI\\EcommerceAPI\\Program.cs",
               "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
